@@ -10,5 +10,4 @@ This project detects brute-force attacks by analyzing SSH authentication logs.
 - Generates alerts
 
 ## How to Run
-```bash
 python detector.py
